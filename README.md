@@ -19,7 +19,7 @@ Welcome to my Data Modeling in Excel! In this project, i explore the world of da
   - Issues: Feel free to raise any issues questions related to the data modeling process or Excel functionalities.
  
 
-  My Excel skills keep getting better by the day as i engage in more practice. With Data modeling in excel, I can confidently create a data model with Excel Power Query, create a membership database in Excel
+  My Excel skills keep getting better by the day as i engage in more practice. With Data modeling in excel, I can confidently create a data model with Excel Power Query, create a membership database in Excel, PivotTables, creating a database in Excel with pictures.
   Let's unlock the potential of data modeling in Excel for imformed decision-making and impacttful analysis! :EMOJICODE💹 💻
 
   
