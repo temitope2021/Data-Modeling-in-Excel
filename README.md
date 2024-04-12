@@ -5,7 +5,7 @@ Welcome to my Data Modeling in Excel! In this project, i explore the world of da
 ### Project Overview:
 - Objective: My objective is to demostrate effective data modeling techniques in Excel to improve data analysis and visualization.
 - Tools: I will primarily be using Microsoft Excel for this data modeling, analysis and abit of color usage.
-- Dataset: This is close to reality dataset, a business data containing over 9000 rows and 21 columns of Business events/transactions taking place in the course of business and this dataset is in xlsm.csv format.
+- Dataset: This is close to reality dataset, a business data containing over 9000 rows and 21 columns of Business events/transactions taking place during the business and this dataset is in xlsm.csv format.
 
 
 ### Key Components:
